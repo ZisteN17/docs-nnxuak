@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-j8vpqr.kujang138.space/sitemap.xml
